@@ -1,18 +1,22 @@
-<html>
-<head>
-</head>
-  <body>
-<h1 align="center">Hi there, I'm Mok ZhiZhuan! 👋 <br>Welcome to my GitHub profile! </h1>
 
-![chibi-silver-wolf-by-quan-v0-vo8ml81xdc7b1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366)
+<h1 align="center">Hi there, I'm Mok Zhi Zhuan! 👋 <br>Welcome to my GitHub profile! </h1>
+
+<p align="center">
+<img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366"/>
+  </p> <br><br>
 
 
-![i-drew-chibi-silver-wolf-v0-vhsrbakcknxb1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d)I'm a passionate in Programming who loves coding and mainly focus on my source projects. ![i-drew-chibi-silver-wolf-v0-vhsrbakcknxb1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d)
+<p align="center">
+  <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d"/>I'm a passionate in Programming who loves coding and mainly focus on my source projects. <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d"/>
+</p>
 
+##
 🌱 I’m currently learning Front end Frameworks <br>
 💬 Ask me about anything related to Java, Spring Boot Java , Python <br>
 📫 How to reach me: Email : gamerdark44@outlook.com  Phone Whatapps: 93655121 <br>
 😄 Pronouns: He/his
+
+##
 
 ## GitHub Stats
 
