@@ -1,19 +1,23 @@
-### Hi there 👋 I am Mok Zhi Zhuan<br><br><br><br><br>
+<html>
+<head>
+</head>
+  <body>
+<h1 align="center">Hi there, I'm Mok ZhiZhuan! 👋 <br>Welcome to my GitHub profile! </h1>
+
+![chibi-silver-wolf-by-quan-v0-vo8ml81xdc7b1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366)
 
 
+![i-drew-chibi-silver-wolf-v0-vhsrbakcknxb1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d)I'm a passionate in Programming who loves coding and mainly focus on my source projects. ![i-drew-chibi-silver-wolf-v0-vhsrbakcknxb1](https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d)
 
-<br><br><br><br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mokzhizhuan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mokzhizhuan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mokzhizhuan&show_icons=true" />
-</picture>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokzhizhuan&layout=compact&langs_count=8&card_width=320" />
-</a>
+🌱 I’m currently learning Front end Frameworks <br>
+💬 Ask me about anything related to Java, Spring Boot Java , Python <br>
+📫 How to reach me: Email : gamerdark44@outlook.com  Phone Whatapps: 93655121 <br>
+😄 Pronouns: He/his
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokzhizhuan&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokzhizhuan&layout=compact&theme=radical)
