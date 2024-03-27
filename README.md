@@ -19,7 +19,6 @@
 <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/3f46eac9-90bb-409b-862e-f81100f82539"width="8%" height="8%"/></p><br>
 
 ##
-<li>
   <h1>Main Lanaguage</h1><br>
   <ul>
     <li>
@@ -35,7 +34,6 @@
          <ul>Java/Spring Boot Java</ul>
     </li>
   </ul>
-</li>
 
 ##
 <h1>About(Intro):</h1>
