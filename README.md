@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366"/>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+  ![](https://komarev.com/ghpvc/?username=mokzhizhuancolor=green)
   </p> <br><br>
 
 
