@@ -11,12 +11,17 @@
 <p align="center">
   <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d"/>I'm a passionate in Programming who loves coding and mainly focus on my source projects. <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/5d891201-4367-4945-bd23-03e3055ca64d"/>
 </p>
+##
+<h1>Top IDE that I used</h1><br>
+<p align="center"><img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/ef3db784-dae2-44a1-bd75-05b36fc092a0)"/>
+<img src="(https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/3f46eac9-90bb-409b-862e-f81100f82539)/></p>
 
 ##
 🌱 I’m currently learning Front end Frameworks <br>
 💬 Ask me about anything related to Java, Spring Boot Java , Python <br>
 📫 How to reach me: Email : gamerdark44@outlook.com  Phone Whatapps: 93655121 <br>
 😄 Pronouns: He/his
+
 
 ##
 
