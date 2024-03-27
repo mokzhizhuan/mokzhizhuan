@@ -3,8 +3,9 @@
 
 <p align="center">
 <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366"/>
-  ![](https://komarev.com/ghpvc/?username=mokzhizhuan&color=green)
-  </p> <br><br>
+  <b><img src="https://komarev.com/ghpvc/?username=mokzhizhuan&color=green"/></b>
+  </p> 
+  <br><br>
 
 
 <p align="center">
