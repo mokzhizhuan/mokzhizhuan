@@ -14,7 +14,7 @@
 ##
 <h1>Top IDE that I used</h1><br>
 <p align="center"><img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/ef3db784-dae2-44a1-bd75-05b36fc092a0" width="10%" height="10%"/>
-<img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/3f46eac9-90bb-409b-862e-f81100f82539"width="10%" height="10%"/></p>
+<img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/3f46eac9-90bb-409b-862e-f81100f82539"width="8%" height="8%"/></p>
 
 ##
 🌱 I’m currently learning Front end Frameworks <br>
