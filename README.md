@@ -37,7 +37,7 @@
 
 ##
 <h1>About(Intro):</h1>
-🌱 I’m currently learning Front end Frameworks <br>
+🌱 I’m currently learning to be a Full Stack Developer <br>
 💬 Ask me about anything related to Java, Spring Boot Java , Python <br>
 📫 How to reach me: Email : gamerdark44@outlook.com  Phone Whatapps: 93655121 <br>
 😄 Pronouns: He/his
