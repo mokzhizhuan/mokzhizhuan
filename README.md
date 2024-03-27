@@ -1,9 +1,9 @@
-
+<p style="margin-left: auto; margin-right: 0;"><img src="https://komarev.com/ghpvc/?username=mokzhizhuan&color=green"/></p>
 <h1 align="center">Hi there, I'm Mok Zhi Zhuan! 👋 <br>Welcome to my GitHub profile! </h1> 
 
 <p align="center">
 <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366"/>
-  <b><img src="https://komarev.com/ghpvc/?username=mokzhizhuan&color=green"/></b>
+  
   </p> 
   <br><br>
 
