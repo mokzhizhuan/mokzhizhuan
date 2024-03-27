@@ -19,6 +19,26 @@
 <img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/3f46eac9-90bb-409b-862e-f81100f82539"width="8%" height="8%"/></p><br>
 
 ##
+
+<h1>Main Lanaguage</h1><br>
+<li>
+  <ul>
+    <li>
+      <h2>Front End</h2>
+        <ul>HTML</ul>
+         <ul>CSS</ul>
+         <ul>Thymeleaf</ul>
+         <ul>React</ul>
+    </li>
+    <li>
+      <h2>BackEnd</h2>
+        <ul>Python</ul>
+         <ul>Java/Spring Boot Java</ul>
+    </li>
+  </ul>
+</li>
+
+##
 <h1>About(Intro):</h1>
 🌱 I’m currently learning Front end Frameworks <br>
 💬 Ask me about anything related to Java, Spring Boot Java , Python <br>
