@@ -2,8 +2,8 @@
 <h1 align="center">Hi there, I'm Mok Zhi Zhuan! 👋 <br>Welcome to my GitHub profile! </h1> 
 
 <p align="center">
-<img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/c3546ae6-8a61-418d-a063-695973b94366"/>
-  
+<img src="https://github.com/mokzhizhuan/mokzhizhuan/assets/53340265/b434fe14-56e5-4940-adef-b8183835f63e"/>
+
   </p> 
   <br><br>
 
