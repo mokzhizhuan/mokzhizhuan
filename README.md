@@ -20,7 +20,7 @@
 
 
 ##
-  <h1>Main Lanaguage</h1><br>
+  <h1>Main Programming Lanaguage</h1><br>
   <ul>
     <li>
       <h2>Front End</h2>
